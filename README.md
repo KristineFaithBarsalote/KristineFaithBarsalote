@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm Kristine Faith M. Barsalote
+**About Me**
 
 💻 Passionate about coding and database management, I enjoy solving complex problems and creating efficient, elegant solutions. My journey in tech began when I pursued a **Bachelor of Science in Information Technology**, and I continue to grow my skills through hands-on projects and continuous learning.
 
@@ -10,7 +10,7 @@
 
 **Bachelor of Science in Information Technology**
 New Era University
-📅 2021 – Present
+📅 2024 – Present
 
 ---
 
@@ -48,10 +48,3 @@ New Era University
 * 📧 Email: [juandelacruz@gmail.com](mailto:juandelacruz@gmail.com)
 
 ---
-
-If you want, I can next:
-
-* make it **more aesthetic** (with badges + icons)
-* or tailor it for **internship/job applications** (slightly stronger wording)
-
-Just tell me 👍
