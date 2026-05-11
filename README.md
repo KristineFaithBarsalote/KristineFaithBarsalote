@@ -1,6 +1,6 @@
 ## 👤 About Me
 
-💻 Passionate about coding and database management, I enjoy solving complex problems and creating efficient, elegant solutions. My journey in tech began when I pursued a **Bachelor of Science in Information Technology**, and I continue to grow my skills through hands-on projects and continuous learning.
+I am Kristine Faith M. Barsalote, with a flair for coding and database management skills. I enjoy solving complex problems and creating efficient, elegant solutions. My journey in tech began when I pursued a **Bachelor of Science in Information Technology**, and I continue to grow my skills through hands-on projects and continuous learning.
 
 ---
 
@@ -20,9 +20,11 @@ New Era University
 
 ## 🛠️ Skills
 
-### 💡 Programming
+### 💡 Programming/Tools
 - Java  
-- JavaScript  
+- JavaScript
+- IntelliJ IDEA
+- VSCode Studio
 
 ### 🗄️ Databases
 - IBM DB2 Cloud  
