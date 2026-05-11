@@ -1,8 +1,8 @@
 ---
 
-**About Me**
+About Me
 
-💻 Passionate about coding and database management, I enjoy solving complex problems and creating efficient, elegant solutions. My journey in tech began when I pursued a **Bachelor of Science in Information Technology**, and I continue to grow my skills through hands-on projects and continuous learning.
+💻 Passionate about coding and database management, I enjoy solving complex problems and creating efficient, elegant solutions. My journey in tech began when I pursued a Bachelor of Science in Information Technology, and I continue to grow my skills through hands-on projects and continuous learning.
 
 ---
 
